@@ -14,11 +14,13 @@ Activate the environment
 Upgrade pip and install dependencies
 
 `pip install --upgrade pip`
+
 `pip install requests bs4 django djangorestframework`
 
 Clone the repository
 
 `git clone https://github.com/ghbhc/PokeAPI.git`
+
 `cd PokeAPI`
 
 Migrate
