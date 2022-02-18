@@ -32,3 +32,11 @@ Run get-poke-data.py script to populate database
 Run the server and have fun!
 
 `./manage.py runserver 127.0.0.1:8000`
+
+## Examples
+
+### return the whole query set
+<img src="images/get-pokemon.png" width=1000>
+
+### filtering by name
+<img src="images/raichu.png" width=1000>
