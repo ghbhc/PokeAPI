@@ -1,6 +1,18 @@
 # PokeAPI
 This is a simple Django read-only REST API for the original 151 Pokemon.  It uses [Django REST framework](https://www.django-rest-framework.org/).  I wrote a small script (get-poke-data.py) that uses requests and BeautifulSoup to scrape the Pokemon data for the database.
 
+## Requirements
+
+[Python >= 3.6](https://www.python.org/)
+
+[Requests](https://docs.python-requests.org/en/latest/)
+
+[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+[Django](https://www.djangoproject.com/)
+
+[Django REST framework](https://www.django-rest-framework.org/)
+
 ## Installing
 
 Create a Python virtual environment for the project
